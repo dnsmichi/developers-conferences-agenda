@@ -350,6 +350,7 @@ Sankt Leon-Rot (Germany) <a href="http://ui5con2024.cfapps.eu12.hana.ondemand.co
 * 18: [Mobilis In Mobile 2024](https://mobilis-in-mobile.io/) - Nantes (FR) <a href="https://conference-hall.io/public/event/YvcuiTfRV8GsU8NVCQLS"><img alt="CFP Mobilis In Mobile 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2024&color=green"></a>
 * 18-19: [UX Healthcare Europe](https://uxhealthcare.co/) - Amsterdam (Netherlands) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN4x_OAks2lr-5NWeXjdQFhq9sOAQfKj_UbZxuvUvZZGCaag/viewform"><img alt="CFP UX Healthcare Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2024&color=green"></a>
 * 18-19: [Stackconf](https://stackconf.eu/) - Berlin (Germany) <a href="https://stackconf.eu/propose/"><img alt="CFP Stackconf" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
+* 18-21: [CloudLand 2024](https://www.cloudland.org/en/home/) - Phantasialand near Cologne (Germany) 
 * 19: [BDAI UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 19-20: [AI_dev: Open Source GenAI & ML Summit Europe](https://events.linuxfoundation.org/ai-dev-europe/) - Paris (France)
 * 19-21: [DevopsDays Amsterdam](https://devopsdays.org/events/2024-amsterdam/welcome/) - Amsterdam (Netherlands) <a href="https://talks.devopsdays.org/devopsdays-amsterdam-2024/cfp"><img alt="CFP DevopsDays Amsterdam" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2024&color=green"></a>
